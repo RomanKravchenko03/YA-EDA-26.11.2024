@@ -5,13 +5,13 @@
 }
 
 @font-face {
-    font-family: ;
+    font-family: Roboto-Regular;
     src: url("../fonts/Roboto-Regular.woff2") format("woff2");
     font-weight: 400
 }
 
 @font-face {
-    font-family: ;
+    font-family: Roboto-Medium;
     src: url("../fonts/Roboto-Medium.ttf") format("truetype");
     font-weight: 500;
 }
